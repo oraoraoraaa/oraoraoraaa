@@ -2,9 +2,7 @@
 
 How did you find a precious profile page like this! (ノ▽〃)
 
-I'm still studying a lot of stuffs! I'm trying to host a program for everyone to collaborate with each other's Minecraft maps (if they'd like to).
-
-That's my first try to start a project!! Wanna see 👀? (PLZZZZ) -> [oraoraoraaa/Minecraft-World](https://github.com/oraoraoraaa/Minecraft-Worlds)
+I'm still studying a lot of stuffs! I'm trying to host a program for everyone to collaborate with each other's Minecraft maps (if they'd like to). That's my first try to start a project!! Wanna see 👀? (PLZZZZ) -> [oraoraoraaa/Minecraft-World](https://github.com/oraoraoraaa/Minecraft-Worlds)
 
 Contact me via email (rinalic39@gmail.com) if you have anything interested in me! I'm open to make more friends and look for more collaboration opportunity to improve!
 
