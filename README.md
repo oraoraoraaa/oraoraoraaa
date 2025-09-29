@@ -1,15 +1,12 @@
-## はじめまして！！よろしくおねがいします！！٩(◕‿◕｡)۶ Hello!!
-
-How did you find a precious profile page like this! (ノ▽〃)
+## ウェルカム
 
 ![main page photo](/Assets/Profilemd_Mainpage.png)
 
-I'm still studying a lot of stuffs! 
+I'm still studying a lot of stuffs!
 
-Contact me via email (rinalic39@gmail.com) if you have anything interested in me! I'm open to make more friends and look for more collaboration opportunity to improve!
+email: rinalic39@gmail.com
 
-
-
+if you have anything interested in me.
 
 <!--
 **oraoraoraaa/oraoraoraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
