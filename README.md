@@ -1,8 +1,8 @@
-## ウェルカム
+## ウェルカム Welcome
 
 ![main page photo](/Assets/Profilemd_Mainpage.png)
 
-I'm still studying a lot of stuffs!
+I'm still learning a lot of stuffs!
 
 email: rinalic39@gmail.com
 
